@@ -1,7 +1,8 @@
-import "./App.css";
+import Body from "./componets/Body";
+// body is the root component
 
 function App() {
-  return <div className="text-3xl font font-bold text-red-200">Hellow duniya lets build netFlixGpt</div>;
+  return <Body />;
 }
 
 export default App;

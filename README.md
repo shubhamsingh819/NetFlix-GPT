@@ -1,6 +1,9 @@
 # NetFlix GPT 
 1. create-react-app
 2. configure tailwind css link-> https://tailwindcss.com/docs/guides/create-react-app
+3. Header
+4. Login Form
+5. Sign up form
 
 # Features we are going to build
 0. login and signup page
