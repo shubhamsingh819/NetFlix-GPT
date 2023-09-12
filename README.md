@@ -13,10 +13,22 @@
 11. create sign up user account
 12. Implement Sign in user api
 13. Created redux store with userSlice
-14. Implemented sign out features 
+14. Implemented sign out features
 15. Update profile api call via firebase .
-<!-- 16. Fetch from TMDB movies  -->
-
+16. BugFix: Signup user displayName and profile picture update.
+17. Bugfix: if the user is not logged in redirect/ browse to login page and vice-versa.
+18. Unsubscribed to the onAuthStateChange Callback.
+19. Add hardcoded values to the constant file -> very important
+20. Register TMDB api and create app and get access token
+21. Get data from TMDB now playing movies list api.
+22. Custom hook for now playing movies.
+23. create movieSlice
+24. Update store with movies data
+25. planning for mainContainer and secondary container
+26. fetch data for trailer video
+27. update store with trailer video data
+28. embeded the youtube video and make it autoplay and mute
+29. tailwind classes to make main container look awesome
 
 # Features we are going to build
 
