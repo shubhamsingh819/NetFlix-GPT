@@ -40,6 +40,12 @@
 38. useTrendingMovies custom hook
 39. useUpcomingMovies custom hook
 40. useNowPlayingMovies custom hook
+41. useMovieTrailor custom hook
+42. GPT search feature
+43. Gpt Search Bar
+44. Added MultiLanguage features in our app **
+45. Integrate GPT api's(get open ai key)
+
 
 # Features we are going to build
 
