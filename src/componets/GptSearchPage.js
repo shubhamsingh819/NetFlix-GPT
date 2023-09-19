@@ -5,13 +5,15 @@ import { BACKGROUND_IMAGE_URL } from "../utils/constant";
 
 const GptSearchPage = () => {
   return (
-    <div>
+    <>
       <div className="absolute -z-10">
-        <img src={BACKGROUND_IMAGE_URL} alt="netFlix logo" />
+        <img className="object-cover" src={BACKGROUND_IMAGE_URL} alt="netFlix logo" />
       </div>
-      <GptSearchBar />
-      <GptMovieSuggestion />
-    </div>
+      <div className="">
+        <GptSearchBar />
+        <GptMovieSuggestion />
+      </div>
+    </>
   );
 };
 

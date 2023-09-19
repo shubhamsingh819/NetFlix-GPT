@@ -45,6 +45,11 @@
 43. Gpt Search Bar
 44. Added MultiLanguage features in our app **
 45. Integrate GPT api's(get open ai key)
+46. Gpt search api call 
+47. Fetched GPT movie suggestions from TMDB
+48. Created Gpt slice added data there
+49. Reused movieList component to make movieSuggestion container
+50. Made our site responsive
 
 
 # Features we are going to build
